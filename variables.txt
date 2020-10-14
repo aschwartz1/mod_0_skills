@@ -1,0 +1,24 @@
+# ruby variable practice
+
+# make some info about a new food
+food = "cheeseburger"
+is_delicious = true
+
+# reassign my food
+food = "lentil soup"
+
+# make some numbers
+num2 = 2
+num7 = 38
+
+# do maths
+quotient = num7 / num2
+
+# save some songs
+songs = ["The Old Shade Tree", "still feel.", "Pound for Pound"]
+
+# remove first element of songs
+first_song = songs.shift
+
+# get number of chars in food
+food_name_length = food.length
